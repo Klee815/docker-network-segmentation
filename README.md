@@ -189,6 +189,6 @@ Through this project I learned how to:
 
 **Kayoung Lee**
 
-Cybersecurity Student | Western Governors University
+Cybersecurity and Information Assurance Student | Western Governors University
 
 GitHub: https://github.com/Klee815
